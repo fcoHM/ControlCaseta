@@ -1,3 +1,4 @@
+from django.urls import path
 from AppControlCaseta import views
 
 # aqui es donde unicamente se manejaran las urls de la AppControlCaseta
